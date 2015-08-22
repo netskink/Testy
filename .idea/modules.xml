@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySplashTesty/MySplashTesty.iml" filepath="$PROJECT_DIR$/MySplashTesty/MySplashTesty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskBasedSplash/TaskBasedSplash.iml" filepath="$PROJECT_DIR$/TaskBasedSplash/TaskBasedSplash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testy.iml" filepath="$PROJECT_DIR$/Testy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutor/Tutor.iml" filepath="$PROJECT_DIR$/Tutor/Tutor.iml" />
+      <module fileurl="file://$USER_HOME$/progs/javafxintrobyex/javafx2introbyexample/chapter1/recipe1_12/recipe1_12.iml" filepath="$USER_HOME$/progs/javafxintrobyex/javafx2introbyexample/chapter1/recipe1_12/recipe1_12.iml" />
+    </modules>
+  </component>
+</project>
